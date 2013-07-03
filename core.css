@@ -188,6 +188,7 @@ article.main.right { float: right; width: 700px; margin-top: -8px; }
 .thumb-full img, .thumb-right img { border: 1px solid #fff; }
 .thumb-right, .thumb-left { float: right; width: 668px; min-height: 202px; padding: 15px; margin: 0 0 20px 0; border: 1px solid #988578; box-shadow: 0 0 10px rgba(0,0,0,0.35); position: relative; z-index: 3; }
 .thumb-left { float: left; }
+.video-container{float: left; width: 670px; height: 377px; padding: 15px; margin: 0 0 20px 0; border: 1px solid #988578; box-shadow: 0 0 10px rgba(0,0,0,0.35); position: relative; z-index: 3;}
 #map { float: left; width: 664px; height: 228px; border: 1px solid #fff; }
 article.main ul, article.main ol { padding-bottom: 1em; }
 
